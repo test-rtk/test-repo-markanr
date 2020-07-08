@@ -1,2 +1,2 @@
 Text that should be updated sometimes
-it's updated once
+it's updated once and another time in anpother branch
